@@ -5,8 +5,8 @@ composer require razorpay/razorpay
 
 Step 2.
 .env
-RAZORPAY_KEY=rzp_test_oVnks7LPwzl0s1
-RAZORPAY_SECRET='hq90vSRxjbHd3u2AnrmWlugA'
+RAZORPAY_KEY=
+RAZORPAY_SECRET=''
 
 Step 3.
  Create Razorpay Service Class
